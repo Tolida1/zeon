@@ -2,8 +2,12 @@ name: Otomatik Mono M3U8 Tarayıcı
 
 on:
   schedule:
-    - cron: '0 */6 * * *' # Her 6 saatte bir çalışır
-  workflow_dispatch: # Manuel tetiklenebilir
+    - cron: '0 */6 * * *' # Her 6 saatte bir otomatik çalışır
+  workflow_dispatch: # GitHub Actions sekmesinden manuel tetiklenebilir
+
+# GitHub Actions botunun depoya yazma (push) izni alabilmesi için zorunludur
+permissions:
+  contents: write
 
 jobs:
   scrape-streams:
