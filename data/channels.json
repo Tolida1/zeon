@@ -1,0 +1,126 @@
+{
+  "data": [
+    {
+      "id": "a62ab284-0bee-456d-abe0-fd1ba45ecab9",
+      "name": "beIN SPORTS 1",
+      "slug": "bein-sports-1",
+      "logoUrl": "/assets/bein-sports.svg",
+      "description": "Futbol · Süper Lig",
+      "sports": [
+        "football"
+      ],
+      "sortOrder": 1,
+      "active": true
+    },
+    {
+      "id": "31737600-0926-4f39-a2bc-bdfcd30512ac",
+      "name": "beIN SPORTS 2",
+      "slug": "bein-sports-2",
+      "logoUrl": "/assets/bein-sports.svg",
+      "description": "Futbol · Dünya ligleri",
+      "sports": [
+        "football"
+      ],
+      "sortOrder": 2,
+      "active": true
+    },
+    {
+      "id": "fa1ebc8f-5c12-43da-b47f-df78a9cc9cae",
+      "name": "beIN SPORTS 3",
+      "slug": "bein-sports-3",
+      "logoUrl": "/assets/bein-sports.svg",
+      "description": "Futbol · Premier Lig",
+      "sports": [
+        "football"
+      ],
+      "sortOrder": 3,
+      "active": true
+    },
+    {
+      "id": "d258ca11-bf47-4992-a7e1-3e10984cfad2",
+      "name": "TRT Spor",
+      "slug": "trt-spor",
+      "logoUrl": "/assets/trt-spor.svg",
+      "description": "Spor · 7/24",
+      "sports": [
+        "football",
+        "basketball"
+      ],
+      "sortOrder": 4,
+      "active": true
+    },
+    {
+      "id": "07080efb-aa81-4d3e-8d86-12ea75e4bc48",
+      "name": "S Sport",
+      "slug": "s-sport",
+      "logoUrl": "/assets/s-sport.svg",
+      "description": "Basketbol · Futbol",
+      "sports": [
+        "football",
+        "basketball"
+      ],
+      "sortOrder": 5,
+      "active": true
+    },
+    {
+      "id": "d249eb56-49f9-4b9a-b89f-19b7be893b85",
+      "name": "S Sport 2",
+      "slug": "s-sport-2",
+      "logoUrl": "/assets/s-sport.svg",
+      "description": "Tenis · Motor sporları",
+      "sports": [
+        "football"
+      ],
+      "sortOrder": 6,
+      "active": true
+    },
+    {
+      "id": "b78ae248-906e-47ae-b407-d8e3220c7285",
+      "name": "beIN SPORTS 4",
+      "slug": "player-b4",
+      "logoUrl": "/assets/bein-sports.svg",
+      "description": "Canlı TV · HD",
+      "sports": [
+        "football"
+      ],
+      "sortOrder": 21,
+      "active": true
+    },
+    {
+      "id": "d784c9f0-76b2-44b2-8eaf-0e6a631e9c58",
+      "name": "beIN SPORTS MAX 1",
+      "slug": "player-b1max",
+      "logoUrl": "/assets/bein-sports.svg",
+      "description": "Canlı TV · HD",
+      "sports": [
+        "football"
+      ],
+      "sortOrder": 23,
+      "active": true
+    },
+    {
+      "id": "162fbd3a-6b61-45c0-932e-caa468158e95",
+      "name": "beIN SPORTS MAX 2",
+      "slug": "player-b2max",
+      "logoUrl": "/assets/bein-sports.svg",
+      "description": "Canlı TV · HD",
+      "sports": [
+        "football"
+      ],
+      "sortOrder": 24,
+      "active": true
+    },
+    {
+      "id": "14266f91-cc46-4fb9-ad86-c719021c72b7",
+      "name": "Tabii Spor 6",
+      "slug": "player-tabii6",
+      "logoUrl": null,
+      "description": "Canlı TV · HD",
+      "sports": [
+        "football"
+      ],
+      "sortOrder": 46,
+      "active": true
+    }
+  ]
+}

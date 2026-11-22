@@ -1,0 +1,1283 @@
+{
+  "data": {
+    "matches": [
+      {
+        "id": "a00e21e2-4ec7-4adb-a36a-543c90716808",
+        "slug": "mk-90c8426b7dd9940351dda0a9",
+        "sport": "football",
+        "league": "Trendyol Süper Lig",
+        "shortLeague": "Trendyol Süper Lig",
+        "country": "Türkiye",
+        "home": {
+          "id": "1c9de839-8bb3-4d39-b475-9dcf65f3611c",
+          "name": "Konyaspor",
+          "logoUrl": "https://file.mackolikfeeds.com/teams/cw4lbdzlqqdvbkdkz00c9ye49"
+        },
+        "away": {
+          "id": "3cc20d26-0f96-4331-811a-4e90698f9415",
+          "name": "Beşiktaş",
+          "logoUrl": "https://file.mackolikfeeds.com/teams/2ez9cvam9lp9jyhng3eh3znb4"
+        },
+        "score": [
+          "0",
+          "1"
+        ],
+        "minute": "13′",
+        "status": "live",
+        "live": true,
+        "stale": false,
+        "dataUpdatedAt": "2026-11-22T13:14:21+00:00",
+        "ended": false,
+        "time": "16:00",
+        "day": "today",
+        "startsAt": "2026-11-22T13:00:00+00:00",
+        "channel": "beIN SPORTS 1",
+        "stadium": "",
+        "homeGoals": "",
+        "awayGoals": "",
+        "possession": [
+          0,
+          0
+        ],
+        "shots": [
+          0,
+          0
+        ],
+        "target": [
+          0,
+          0
+        ],
+        "version": 22
+      },
+      {
+        "id": "20d9e130-8ade-4728-81dc-92f1678be6f8",
+        "slug": "mk-9bdb2c784d5c920cecc9e862",
+        "sport": "football",
+        "league": "Trendyol Süper Lig",
+        "shortLeague": "Trendyol Süper Lig",
+        "country": "Türkiye",
+        "home": {
+          "id": "1a137b8e-db60-4478-8a67-e5dc57953991",
+          "name": "Kasımpaşa",
+          "logoUrl": "https://file.mackolikfeeds.com/teams/4idg23egrrvtrbgrg7p5x7bwf"
+        },
+        "away": {
+          "id": "4ec90ae7-ae81-4f6d-a719-d5633dd7fd54",
+          "name": "Alanyaspor",
+          "logoUrl": "https://file.mackolikfeeds.com/teams/84fpe0iynjdghwysyo5tizdkk"
+        },
+        "score": [
+          "0",
+          "0"
+        ],
+        "minute": "14′",
+        "status": "live",
+        "live": true,
+        "stale": false,
+        "dataUpdatedAt": "2026-11-22T13:14:21+00:00",
+        "ended": false,
+        "time": "16:00",
+        "day": "today",
+        "startsAt": "2026-11-22T13:00:00+00:00",
+        "channel": "beIN SPORTS 2",
+        "stadium": "",
+        "homeGoals": "",
+        "awayGoals": "",
+        "possession": [
+          0,
+          0
+        ],
+        "shots": [
+          0,
+          0
+        ],
+        "target": [
+          0,
+          0
+        ],
+        "version": 21
+      },
+      {
+        "id": "2cfb4d00-17c4-41d4-abb3-a272f0b392e4",
+        "slug": "mk-f50f34a343d2233fb75cd053",
+        "sport": "football",
+        "league": "La Liga",
+        "shortLeague": "La Liga",
+        "country": "İspanya",
+        "home": {
+          "id": "7f1f7540-dbbe-482c-bb1f-763b3589870e",
+          "name": "Barcelona",
+          "logoUrl": "https://file.mackolikfeeds.com/teams/agh9ifb2mw3ivjusgedj7c3fe"
+        },
+        "away": {
+          "id": "112b39df-c351-4ebe-a9bf-438b4e041b4e",
+          "name": "Villarreal",
+          "logoUrl": "https://file.mackolikfeeds.com/teams/74mcjsm72vr3l9pw2i4qfjchj"
+        },
+        "score": [
+          "0",
+          "2"
+        ],
+        "minute": "11′",
+        "status": "live",
+        "live": true,
+        "stale": false,
+        "dataUpdatedAt": "2026-11-22T13:14:21+00:00",
+        "ended": false,
+        "time": "16:00",
+        "day": "today",
+        "startsAt": "2026-11-22T13:00:00+00:00",
+        "channel": "S Sport",
+        "stadium": "",
+        "homeGoals": "",
+        "awayGoals": "",
+        "possession": [
+          0,
+          0
+        ],
+        "shots": [
+          0,
+          0
+        ],
+        "target": [
+          0,
+          0
+        ],
+        "version": 20
+      },
+      {
+        "id": "50862c17-9a04-430e-98a3-b150f8566041",
+        "slug": "mk-cf615fcb289c8d5bb3a853a2",
+        "sport": "football",
+        "league": "Serie A",
+        "shortLeague": "Serie A",
+        "country": "İtalya",
+        "home": {
+          "id": "32c07f6b-77a0-4cf0-98d7-cf335b9e12f4",
+          "name": "Juventus",
+          "logoUrl": "https://file.mackolikfeeds.com/teams/43ndmpjhglkozrnrs0ssw8eqf"
+        },
+        "away": {
+          "id": "0069b8fe-472e-439b-adf4-424a84be3608",
+          "name": "Venezia",
+          "logoUrl": "https://file.mackolikfeeds.com/teams/565sm63rjm2y7xeae0dcdbtnu"
+        },
+        "score": [
+          "4",
+          "0"
+        ],
+        "minute": "86′",
+        "status": "live",
+        "live": true,
+        "stale": false,
+        "dataUpdatedAt": "2026-11-22T13:14:21+00:00",
+        "ended": false,
+        "time": "14:30",
+        "day": "today",
+        "startsAt": "2026-11-22T11:30:00+00:00",
+        "channel": "",
+        "stadium": "",
+        "homeGoals": "",
+        "awayGoals": "",
+        "possession": [
+          0,
+          0
+        ],
+        "shots": [
+          0,
+          0
+        ],
+        "target": [
+          0,
+          0
+        ],
+        "version": 120
+      },
+      {
+        "id": "adf5908b-6f33-4764-b4c5-f5a1f1d980c1",
+        "slug": "mk-368742c766422955d58e648a",
+        "sport": "football",
+        "league": "Trendyol 1. Lig",
+        "shortLeague": "Trendyol 1. Lig",
+        "country": "Türkiye",
+        "home": {
+          "id": "f8169278-2f37-47b5-824a-6373f65f1b5a",
+          "name": "Manisa FK",
+          "logoUrl": "https://file.mackolikfeeds.com/teams/eyjcv5ky4vwoj6d9cucqvh9ex"
+        },
+        "away": {
+          "id": "1d5b8663-1892-4b92-8799-d618a9e77106",
+          "name": "Pendikspor",
+          "logoUrl": "https://file.mackolikfeeds.com/teams/9badgd05ykw5xo8tm6zci5aeu"
+        },
+        "score": [
+          "0",
+          "0"
+        ],
+        "minute": "15′",
+        "status": "live",
+        "live": true,
+        "stale": false,
+        "dataUpdatedAt": "2026-11-22T13:14:21+00:00",
+        "ended": false,
+        "time": "16:00",
+        "day": "today",
+        "startsAt": "2026-11-22T13:00:00+00:00",
+        "channel": "beIN SPORTS MAX 2 · Tabii Spor 6",
+        "stadium": "",
+        "homeGoals": "",
+        "awayGoals": "",
+        "possession": [
+          0,
+          0
+        ],
+        "shots": [
+          0,
+          0
+        ],
+        "target": [
+          0,
+          0
+        ],
+        "version": 21
+      },
+      {
+        "id": "e1217097-771c-4b0d-8266-4d11bbc05411",
+        "slug": "mk-0a5ffa350a13160a2b7582f4",
+        "sport": "football",
+        "league": "Trendyol 1. Lig",
+        "shortLeague": "Trendyol 1. Lig",
+        "country": "Türkiye",
+        "home": {
+          "id": "61836fb9-b989-4aef-bea2-6674e2fe9ff5",
+          "name": "Esenler Erokspor",
+          "logoUrl": "https://file.mackolikfeeds.com/teams/iiep6s3jjwf609djj19751m2"
+        },
+        "away": {
+          "id": "16eddd9a-5d86-42bd-a1fd-6ac52cff22d1",
+          "name": "Antalyaspor",
+          "logoUrl": "https://file.mackolikfeeds.com/teams/9irsyv431fpuqhqtfq9iwxf2u"
+        },
+        "score": [
+          "0",
+          "0"
+        ],
+        "minute": "13′",
+        "status": "live",
+        "live": true,
+        "stale": false,
+        "dataUpdatedAt": "2026-11-22T13:14:21+00:00",
+        "ended": false,
+        "time": "16:00",
+        "day": "today",
+        "startsAt": "2026-11-22T13:00:00+00:00",
+        "channel": "beIN SPORTS MAX 1 · TRT Spor",
+        "stadium": "",
+        "homeGoals": "",
+        "awayGoals": "",
+        "possession": [
+          0,
+          0
+        ],
+        "shots": [
+          0,
+          0
+        ],
+        "target": [
+          0,
+          0
+        ],
+        "version": 20
+      },
+      {
+        "id": "521fa786-36fe-4ac5-9dc6-029f5f308fdb",
+        "slug": "mk-62b16d132ea746340ece95de",
+        "sport": "football",
+        "league": "Trendyol Süper Lig",
+        "shortLeague": "Trendyol Süper Lig",
+        "country": "Türkiye",
+        "home": {
+          "id": "5f0fb135-27a0-43f3-8141-e258d9f42b9d",
+          "name": "Trabzonspor",
+          "logoUrl": "https://file.mackolikfeeds.com/teams/2yab38jdfl0gk2tei1mq40o06"
+        },
+        "away": {
+          "id": "8d0648ed-0afa-4030-ad46-5d5b303ba648",
+          "name": "Eyüpspor",
+          "logoUrl": "https://file.mackolikfeeds.com/teams/bmgtxgipsznlb1j20zwjti3xh"
+        },
+        "score": [
+          "–",
+          "–"
+        ],
+        "minute": "",
+        "status": "scheduled",
+        "live": false,
+        "stale": false,
+        "dataUpdatedAt": "2026-11-22T13:14:21+00:00",
+        "ended": false,
+        "time": "19:00",
+        "day": "today",
+        "startsAt": "2026-11-22T16:00:00+00:00",
+        "channel": "beIN SPORTS 1",
+        "stadium": "",
+        "homeGoals": "",
+        "awayGoals": "",
+        "possession": [
+          0,
+          0
+        ],
+        "shots": [
+          0,
+          0
+        ],
+        "target": [
+          0,
+          0
+        ],
+        "version": 0
+      },
+      {
+        "id": "561510f3-951e-478e-8e5b-8627bd2779c9",
+        "slug": "mk-3c724113035c7660b6696e40",
+        "sport": "football",
+        "league": "Premier League",
+        "shortLeague": "Premier League",
+        "country": "İngiltere",
+        "home": {
+          "id": "a2d7c4fd-71c3-433f-a499-12ee2b21216f",
+          "name": "Hull City",
+          "logoUrl": "https://file.mackolikfeeds.com/teams/f0figafm2v9h8ofo6slajj7xf"
+        },
+        "away": {
+          "id": "a2c64388-66cc-445d-a8ba-64dd8c157062",
+          "name": "Brighton & Hove Albion",
+          "logoUrl": "https://file.mackolikfeeds.com/teams/e5p0ehyguld7egzhiedpdnc3w"
+        },
+        "score": [
+          "–",
+          "–"
+        ],
+        "minute": "",
+        "status": "scheduled",
+        "live": false,
+        "stale": false,
+        "dataUpdatedAt": "2026-11-22T13:14:21+00:00",
+        "ended": false,
+        "time": "17:00",
+        "day": "today",
+        "startsAt": "2026-11-22T14:00:00+00:00",
+        "channel": "beIN SPORTS 3",
+        "stadium": "",
+        "homeGoals": "",
+        "awayGoals": "",
+        "possession": [
+          0,
+          0
+        ],
+        "shots": [
+          0,
+          0
+        ],
+        "target": [
+          0,
+          0
+        ],
+        "version": 0
+      },
+      {
+        "id": "a4adaebd-f1fe-40a9-96c8-045f53dced33",
+        "slug": "mk-2466ae7489c64c2db988f1de",
+        "sport": "football",
+        "league": "Premier League",
+        "shortLeague": "Premier League",
+        "country": "İngiltere",
+        "home": {
+          "id": "ae64bd86-8309-4a67-b968-658102ce7688",
+          "name": "Liverpool",
+          "logoUrl": "https://file.mackolikfeeds.com/teams/c8h9bw1l82s06h77xxrelzhur"
+        },
+        "away": {
+          "id": "db100c60-fef4-4663-acfc-09ece30bef84",
+          "name": "Manchester United",
+          "logoUrl": "https://file.mackolikfeeds.com/teams/6eqit8ye8aomdsrrq0hk3v7gh"
+        },
+        "score": [
+          "–",
+          "–"
+        ],
+        "minute": "",
+        "status": "scheduled",
+        "live": false,
+        "stale": false,
+        "dataUpdatedAt": "2026-11-22T13:14:21+00:00",
+        "ended": false,
+        "time": "19:30",
+        "day": "today",
+        "startsAt": "2026-11-22T16:30:00+00:00",
+        "channel": "beIN SPORTS 3",
+        "stadium": "",
+        "homeGoals": "",
+        "awayGoals": "",
+        "possession": [
+          0,
+          0
+        ],
+        "shots": [
+          0,
+          0
+        ],
+        "target": [
+          0,
+          0
+        ],
+        "version": 0
+      },
+      {
+        "id": "a0d80d71-dfa2-4019-8c66-703ba6e2d729",
+        "slug": "mk-15ab6d0d05808c60e6c2de77",
+        "sport": "football",
+        "league": "La Liga",
+        "shortLeague": "La Liga",
+        "country": "İspanya",
+        "home": {
+          "id": "13fe6c7f-13a3-49c7-ae45-c5282b823156",
+          "name": "R. Santander",
+          "logoUrl": "https://file.mackolikfeeds.com/teams/bzkwzatvwahmbzok1ymm5vqa1"
+        },
+        "away": {
+          "id": "1f827e37-adb5-457d-882e-72780edcc145",
+          "name": "R. Sociedad",
+          "logoUrl": "https://file.mackolikfeeds.com/teams/63f5h8t5e9qm1fqmvfkb23ghh"
+        },
+        "score": [
+          "–",
+          "–"
+        ],
+        "minute": "",
+        "status": "scheduled",
+        "live": false,
+        "stale": false,
+        "dataUpdatedAt": "2026-11-22T13:14:21+00:00",
+        "ended": false,
+        "time": "18:15",
+        "day": "today",
+        "startsAt": "2026-11-22T15:15:00+00:00",
+        "channel": "S Sport",
+        "stadium": "",
+        "homeGoals": "",
+        "awayGoals": "",
+        "possession": [
+          0,
+          0
+        ],
+        "shots": [
+          0,
+          0
+        ],
+        "target": [
+          0,
+          0
+        ],
+        "version": 0
+      },
+      {
+        "id": "6a8652bb-4385-4d55-b79d-f5ee4bd755cd",
+        "slug": "mk-f76c4e6eea1eab3ade3cb592",
+        "sport": "football",
+        "league": "La Liga",
+        "shortLeague": "La Liga",
+        "country": "İspanya",
+        "home": {
+          "id": "c9f90648-75d0-4ee4-bc98-120ff7357cc8",
+          "name": "Osasuna",
+          "logoUrl": "https://file.mackolikfeeds.com/teams/2l0ldgiwsgb8d6y3z0sfgjzyj"
+        },
+        "away": {
+          "id": "2e1566f7-db21-4264-b535-32eb05101f39",
+          "name": "Malaga",
+          "logoUrl": "https://file.mackolikfeeds.com/teams/7012hpp3p5vg4fzyn3h0yvf09"
+        },
+        "score": [
+          "–",
+          "–"
+        ],
+        "minute": "",
+        "status": "scheduled",
+        "live": false,
+        "stale": false,
+        "dataUpdatedAt": "2026-11-22T13:14:21+00:00",
+        "ended": false,
+        "time": "20:30",
+        "day": "today",
+        "startsAt": "2026-11-22T17:30:00+00:00",
+        "channel": "S Sport",
+        "stadium": "",
+        "homeGoals": "",
+        "awayGoals": "",
+        "possession": [
+          0,
+          0
+        ],
+        "shots": [
+          0,
+          0
+        ],
+        "target": [
+          0,
+          0
+        ],
+        "version": 0
+      },
+      {
+        "id": "c45ebde5-7ccc-4746-8709-c5f4f46f84ee",
+        "slug": "mk-32c290a0288a8d0c64374b72",
+        "sport": "football",
+        "league": "La Liga",
+        "shortLeague": "La Liga",
+        "country": "İspanya",
+        "home": {
+          "id": "a8406841-6290-4d38-b286-ab9b16cc8902",
+          "name": "Getafe",
+          "logoUrl": "https://file.mackolikfeeds.com/teams/1n1j0wsl763lq7ee1k0c11c02"
+        },
+        "away": {
+          "id": "df2a454c-23c1-42ff-b526-c34ab6b89c4a",
+          "name": "Atl. Madrid",
+          "logoUrl": "https://file.mackolikfeeds.com/teams/4ku8o6uf87yd8iecdalipo6wd"
+        },
+        "score": [
+          "–",
+          "–"
+        ],
+        "minute": "",
+        "status": "scheduled",
+        "live": false,
+        "stale": false,
+        "dataUpdatedAt": "2026-11-22T13:14:21+00:00",
+        "ended": false,
+        "time": "23:00",
+        "day": "today",
+        "startsAt": "2026-11-22T20:00:00+00:00",
+        "channel": "S Sport",
+        "stadium": "",
+        "homeGoals": "",
+        "awayGoals": "",
+        "possession": [
+          0,
+          0
+        ],
+        "shots": [
+          0,
+          0
+        ],
+        "target": [
+          0,
+          0
+        ],
+        "version": 0
+      },
+      {
+        "id": "462219ff-0c20-4ae2-8758-aa1f8df2b500",
+        "slug": "mk-e9b3d8172446751d5abe0d9d",
+        "sport": "football",
+        "league": "Serie A",
+        "shortLeague": "Serie A",
+        "country": "İtalya",
+        "home": {
+          "id": "0a8465a8-98ae-4134-bc95-4b6386c26f4d",
+          "name": "Bologna",
+          "logoUrl": "https://file.mackolikfeeds.com/teams/ej5er0oyngdw138yuumwqbyqt"
+        },
+        "away": {
+          "id": "6e637e86-1022-410f-b08e-3dd56338db68",
+          "name": "Udinese",
+          "logoUrl": "https://file.mackolikfeeds.com/teams/dxq76zcvnokq07cszdx0i6kve"
+        },
+        "score": [
+          "–",
+          "–"
+        ],
+        "minute": "",
+        "status": "scheduled",
+        "live": false,
+        "stale": false,
+        "dataUpdatedAt": "2026-11-22T13:14:21+00:00",
+        "ended": false,
+        "time": "17:00",
+        "day": "today",
+        "startsAt": "2026-11-22T14:00:00+00:00",
+        "channel": "S Sport 2",
+        "stadium": "",
+        "homeGoals": "",
+        "awayGoals": "",
+        "possession": [
+          0,
+          0
+        ],
+        "shots": [
+          0,
+          0
+        ],
+        "target": [
+          0,
+          0
+        ],
+        "version": 0
+      },
+      {
+        "id": "46a4b153-d671-4fcc-acc1-0cf14290035c",
+        "slug": "mk-21f7044674c49288787606a1",
+        "sport": "football",
+        "league": "Serie A",
+        "shortLeague": "Serie A",
+        "country": "İtalya",
+        "home": {
+          "id": "1753186d-496b-4532-84e0-76d8daf2333c",
+          "name": "Sassuolo",
+          "logoUrl": "https://file.mackolikfeeds.com/teams/6tuibxq39fdryu8ou06wcm0q3"
+        },
+        "away": {
+          "id": "fa79abb2-5201-4850-a89c-4a8797547331",
+          "name": "Genoa",
+          "logoUrl": "https://file.mackolikfeeds.com/teams/4kumqzwifv478caxed8zywlh3"
+        },
+        "score": [
+          "–",
+          "–"
+        ],
+        "minute": "",
+        "status": "scheduled",
+        "live": false,
+        "stale": false,
+        "dataUpdatedAt": "2026-11-22T13:14:21+00:00",
+        "ended": false,
+        "time": "17:00",
+        "day": "today",
+        "startsAt": "2026-11-22T14:00:00+00:00",
+        "channel": "",
+        "stadium": "",
+        "homeGoals": "",
+        "awayGoals": "",
+        "possession": [
+          0,
+          0
+        ],
+        "shots": [
+          0,
+          0
+        ],
+        "target": [
+          0,
+          0
+        ],
+        "version": 0
+      },
+      {
+        "id": "0050446c-03d4-425b-b276-7dea75fb849b",
+        "slug": "mk-be7c7b4d29801b1278432f1a",
+        "sport": "football",
+        "league": "Serie A",
+        "shortLeague": "Serie A",
+        "country": "İtalya",
+        "home": {
+          "id": "728e7d82-8c13-453d-92f2-07a1f5a66626",
+          "name": "Milan",
+          "logoUrl": "https://file.mackolikfeeds.com/teams/9dntj5dioj5ex52yrgwzxrq9l"
+        },
+        "away": {
+          "id": "e351a863-ee1f-4781-aa59-8facf77e92ac",
+          "name": "Frosinone",
+          "logoUrl": "https://file.mackolikfeeds.com/teams/5khizzei8z0qbb7exz622wxw3"
+        },
+        "score": [
+          "–",
+          "–"
+        ],
+        "minute": "",
+        "status": "scheduled",
+        "live": false,
+        "stale": false,
+        "dataUpdatedAt": "2026-11-22T13:14:21+00:00",
+        "ended": false,
+        "time": "20:00",
+        "day": "today",
+        "startsAt": "2026-11-22T17:00:00+00:00",
+        "channel": "S Sport 2",
+        "stadium": "",
+        "homeGoals": "",
+        "awayGoals": "",
+        "possession": [
+          0,
+          0
+        ],
+        "shots": [
+          0,
+          0
+        ],
+        "target": [
+          0,
+          0
+        ],
+        "version": 0
+      },
+      {
+        "id": "951e924c-004c-4a29-af63-8a94acd3fe2a",
+        "slug": "mk-41ed54ab1c1f37bbf7a7bec4",
+        "sport": "football",
+        "league": "Serie A",
+        "shortLeague": "Serie A",
+        "country": "İtalya",
+        "home": {
+          "id": "cba657b0-6206-4c42-868c-8d35fa7c5947",
+          "name": "Atalanta",
+          "logoUrl": "https://file.mackolikfeeds.com/teams/e75syeuawg3ql8nwpi3vr2btz"
+        },
+        "away": {
+          "id": "96d8927b-6bd0-4353-a782-2a1d5f796038",
+          "name": "Inter",
+          "logoUrl": "https://file.mackolikfeeds.com/teams/a6td5y26yfyyc4nac8m20fm6s"
+        },
+        "score": [
+          "–",
+          "–"
+        ],
+        "minute": "",
+        "status": "scheduled",
+        "live": false,
+        "stale": false,
+        "dataUpdatedAt": "2026-11-22T13:14:21+00:00",
+        "ended": false,
+        "time": "22:45",
+        "day": "today",
+        "startsAt": "2026-11-22T19:45:00+00:00",
+        "channel": "S Sport 2",
+        "stadium": "",
+        "homeGoals": "",
+        "awayGoals": "",
+        "possession": [
+          0,
+          0
+        ],
+        "shots": [
+          0,
+          0
+        ],
+        "target": [
+          0,
+          0
+        ],
+        "version": 0
+      },
+      {
+        "id": "df6b9466-ea2d-4ee7-b730-8bc6639214b6",
+        "slug": "mk-0c23ef23eb363393a1e29ccc",
+        "sport": "football",
+        "league": "Bundesliga",
+        "shortLeague": "Bundesliga",
+        "country": "Almanya",
+        "home": {
+          "id": "015e8314-905c-41c5-8296-212c6346f735",
+          "name": "Augsburg",
+          "logoUrl": "https://file.mackolikfeeds.com/teams/ex3psl8e3ajeypwjy4xfltpx6"
+        },
+        "away": {
+          "id": "c340f543-aff3-4ce7-8623-e5434b4ab767",
+          "name": "Mainz",
+          "logoUrl": "https://file.mackolikfeeds.com/teams/1c7qokc1j5z50cjj4tcu32haa"
+        },
+        "score": [
+          "–",
+          "–"
+        ],
+        "minute": "",
+        "status": "scheduled",
+        "live": false,
+        "stale": false,
+        "dataUpdatedAt": "2026-11-22T13:14:21+00:00",
+        "ended": false,
+        "time": "17:30",
+        "day": "today",
+        "startsAt": "2026-11-22T14:30:00+00:00",
+        "channel": "",
+        "stadium": "",
+        "homeGoals": "",
+        "awayGoals": "",
+        "possession": [
+          0,
+          0
+        ],
+        "shots": [
+          0,
+          0
+        ],
+        "target": [
+          0,
+          0
+        ],
+        "version": 0
+      },
+      {
+        "id": "352abe7b-1f17-474d-8d12-83a2594ef4a8",
+        "slug": "mk-a6d0578ecbac7da8e7814e62",
+        "sport": "football",
+        "league": "Bundesliga",
+        "shortLeague": "Bundesliga",
+        "country": "Almanya",
+        "home": {
+          "id": "0d1a9d9e-b754-4c4d-bcc1-98870307249d",
+          "name": "Werder Bremen",
+          "logoUrl": "https://file.mackolikfeeds.com/teams/cu0eztmjcsbydyp53aleznorw"
+        },
+        "away": {
+          "id": "c5287188-5af8-42e0-9dd5-27c67f5470dd",
+          "name": "Hamburg",
+          "logoUrl": "https://file.mackolikfeeds.com/teams/75xi6hloabmnjn2kzgj1g8h1s"
+        },
+        "score": [
+          "–",
+          "–"
+        ],
+        "minute": "",
+        "status": "scheduled",
+        "live": false,
+        "stale": false,
+        "dataUpdatedAt": "2026-11-22T13:14:21+00:00",
+        "ended": false,
+        "time": "19:30",
+        "day": "today",
+        "startsAt": "2026-11-22T16:30:00+00:00",
+        "channel": "",
+        "stadium": "",
+        "homeGoals": "",
+        "awayGoals": "",
+        "possession": [
+          0,
+          0
+        ],
+        "shots": [
+          0,
+          0
+        ],
+        "target": [
+          0,
+          0
+        ],
+        "version": 0
+      },
+      {
+        "id": "af8c2306-e62e-49af-bea9-e0ff7b886023",
+        "slug": "mk-d442ea39bf9636a6257d889f",
+        "sport": "football",
+        "league": "Ligue 1",
+        "shortLeague": "Ligue 1",
+        "country": "Fransa",
+        "home": {
+          "id": "01738235-b973-4971-bfe8-44a017bc912d",
+          "name": "Paris FC",
+          "logoUrl": "https://file.mackolikfeeds.com/teams/8v00fx2zwhiwm05tqqkt122p5"
+        },
+        "away": {
+          "id": "d48e33d4-b750-4afd-9bec-21c642fdf5d0",
+          "name": "Angers",
+          "logoUrl": "https://file.mackolikfeeds.com/teams/75qj99fhg5c0ztj2tva5u4uii"
+        },
+        "score": [
+          "–",
+          "–"
+        ],
+        "minute": "",
+        "status": "scheduled",
+        "live": false,
+        "stale": false,
+        "dataUpdatedAt": "2026-11-22T13:14:21+00:00",
+        "ended": false,
+        "time": "17:00",
+        "day": "today",
+        "startsAt": "2026-11-22T14:00:00+00:00",
+        "channel": "beIN SPORTS 4",
+        "stadium": "",
+        "homeGoals": "",
+        "awayGoals": "",
+        "possession": [
+          0,
+          0
+        ],
+        "shots": [
+          0,
+          0
+        ],
+        "target": [
+          0,
+          0
+        ],
+        "version": 0
+      },
+      {
+        "id": "b52b2d92-5559-49aa-9a6b-4eac408f869e",
+        "slug": "mk-4c7a2d14990311cb6ee3f783",
+        "sport": "football",
+        "league": "Ligue 1",
+        "shortLeague": "Ligue 1",
+        "country": "Fransa",
+        "home": {
+          "id": "5e266b6c-fef2-4a8d-b41c-a92eea534ccf",
+          "name": "Lorient",
+          "logoUrl": "https://file.mackolikfeeds.com/teams/70nn27vgkt6l48lvv5e66q7ww"
+        },
+        "away": {
+          "id": "99a2ada5-3713-4a2a-925c-5627bdc16ca4",
+          "name": "Rennes",
+          "logoUrl": "https://file.mackolikfeeds.com/teams/z1wbqtd0fz5t5eezjvrbld3h"
+        },
+        "score": [
+          "–",
+          "–"
+        ],
+        "minute": "",
+        "status": "scheduled",
+        "live": false,
+        "stale": false,
+        "dataUpdatedAt": "2026-11-22T13:14:21+00:00",
+        "ended": false,
+        "time": "19:15",
+        "day": "today",
+        "startsAt": "2026-11-22T16:15:00+00:00",
+        "channel": "beIN SPORTS 4",
+        "stadium": "",
+        "homeGoals": "",
+        "awayGoals": "",
+        "possession": [
+          0,
+          0
+        ],
+        "shots": [
+          0,
+          0
+        ],
+        "target": [
+          0,
+          0
+        ],
+        "version": 0
+      },
+      {
+        "id": "4e9cb940-e3b1-4f3d-b68a-70b6ecc787d3",
+        "slug": "mk-1ba0720b114ee04a6435923a",
+        "sport": "football",
+        "league": "Ligue 1",
+        "shortLeague": "Ligue 1",
+        "country": "Fransa",
+        "home": {
+          "id": "770b6428-a52c-40d0-8222-db2f0e8e4392",
+          "name": "Marsilya",
+          "logoUrl": "https://file.mackolikfeeds.com/teams/27xvwccz8kpmqsefjv2b2sc0o"
+        },
+        "away": {
+          "id": "d3b0f1f7-3592-4dca-bf1b-f3d4c3fb13fc",
+          "name": "Le Mans",
+          "logoUrl": "https://file.mackolikfeeds.com/teams/bj8hrmj01r3zit0x8r6qm2eu2"
+        },
+        "score": [
+          "–",
+          "–"
+        ],
+        "minute": "",
+        "status": "scheduled",
+        "live": false,
+        "stale": false,
+        "dataUpdatedAt": "2026-11-22T13:14:21+00:00",
+        "ended": false,
+        "time": "22:45",
+        "day": "today",
+        "startsAt": "2026-11-22T19:45:00+00:00",
+        "channel": "beIN SPORTS 3",
+        "stadium": "",
+        "homeGoals": "",
+        "awayGoals": "",
+        "possession": [
+          0,
+          0
+        ],
+        "shots": [
+          0,
+          0
+        ],
+        "target": [
+          0,
+          0
+        ],
+        "version": 0
+      },
+      {
+        "id": "a02e49e4-ec56-4b2e-afec-c207cfa584b2",
+        "slug": "mk-2a90e1dabb9a9652f5e4d2cf",
+        "sport": "football",
+        "league": "Trendyol 1. Lig",
+        "shortLeague": "Trendyol 1. Lig",
+        "country": "Türkiye",
+        "home": {
+          "id": "8d488650-eaf1-4a34-80fa-d2d0f839df6b",
+          "name": "Bursaspor",
+          "logoUrl": "https://file.mackolikfeeds.com/teams/86aq9jbei8h8p1ftxbmy8y2kk"
+        },
+        "away": {
+          "id": "43c6ab3f-6540-4d26-ac58-527a13c0c88a",
+          "name": "Sivasspor",
+          "logoUrl": "https://file.mackolikfeeds.com/teams/f432akygffyamal3h6poig65t"
+        },
+        "score": [
+          "–",
+          "–"
+        ],
+        "minute": "",
+        "status": "scheduled",
+        "live": false,
+        "stale": false,
+        "dataUpdatedAt": "2026-11-22T13:14:21+00:00",
+        "ended": false,
+        "time": "19:00",
+        "day": "today",
+        "startsAt": "2026-11-22T16:00:00+00:00",
+        "channel": "beIN SPORTS 2 · TRT Spor",
+        "stadium": "",
+        "homeGoals": "",
+        "awayGoals": "",
+        "possession": [
+          0,
+          0
+        ],
+        "shots": [
+          0,
+          0
+        ],
+        "target": [
+          0,
+          0
+        ],
+        "version": 0
+      },
+      {
+        "id": "7dee9c5b-ed40-40e4-94f2-12d0cb07bf98",
+        "slug": "mk-bcff3e7df906709e5d9bb15f",
+        "sport": "football",
+        "league": "Trendyol Süper Lig",
+        "shortLeague": "Trendyol Süper Lig",
+        "country": "Türkiye",
+        "home": {
+          "id": "416402f3-70bb-49e9-a09d-fecacfdd01c1",
+          "name": "Erzurumspor FK",
+          "logoUrl": "https://file.mackolikfeeds.com/teams/ea2gyhkv6vwmxbxevdb4u3796"
+        },
+        "away": {
+          "id": "27161696-0b17-4e5d-ba18-4888bd0c5c9a",
+          "name": "Göztepe",
+          "logoUrl": "https://file.mackolikfeeds.com/teams/cjbaf8s09qoa1n11r33gc560x"
+        },
+        "score": [
+          "0",
+          "1"
+        ],
+        "minute": "MS",
+        "status": "finished",
+        "live": false,
+        "stale": false,
+        "dataUpdatedAt": "2026-11-22T13:14:21+00:00",
+        "ended": true,
+        "time": "13:30",
+        "day": "today",
+        "startsAt": "2026-11-22T10:30:00+00:00",
+        "channel": "beIN SPORTS 2",
+        "stadium": "",
+        "homeGoals": "",
+        "awayGoals": "",
+        "possession": [
+          0,
+          0
+        ],
+        "shots": [
+          0,
+          0
+        ],
+        "target": [
+          0,
+          0
+        ],
+        "version": 130
+      },
+      {
+        "id": "1dfcfeec-6f3e-42c6-ad47-db6fa31cab9d",
+        "slug": "mk-370eec9d411c723e1e6c5d8c",
+        "sport": "football",
+        "league": "Trendyol 1. Lig",
+        "shortLeague": "Trendyol 1. Lig",
+        "country": "Türkiye",
+        "home": {
+          "id": "1bec683b-57fc-416f-8a33-a105e432b54b",
+          "name": "Batman Petrolspor",
+          "logoUrl": "https://file.mackolikfeeds.com/teams/b0k7caqbwgb1srpwas38ii52l"
+        },
+        "away": {
+          "id": "5e3f8ba3-342e-47ba-ab86-3ff8d43c0104",
+          "name": "Muğlaspor",
+          "logoUrl": "https://file.mackolikfeeds.com/teams/6xbuv81bmc64noaw6kj3tooys"
+        },
+        "score": [
+          "2",
+          "0"
+        ],
+        "minute": "MS",
+        "status": "finished",
+        "live": false,
+        "stale": false,
+        "dataUpdatedAt": "2026-11-22T13:14:21+00:00",
+        "ended": true,
+        "time": "13:30",
+        "day": "today",
+        "startsAt": "2026-11-22T10:30:00+00:00",
+        "channel": "beIN SPORTS MAX 1 · TRT Spor",
+        "stadium": "",
+        "homeGoals": "",
+        "awayGoals": "",
+        "possession": [
+          0,
+          0
+        ],
+        "shots": [
+          0,
+          0
+        ],
+        "target": [
+          0,
+          0
+        ],
+        "version": 122
+      }
+    ],
+    "channels": [
+      {
+        "id": "a62ab284-0bee-456d-abe0-fd1ba45ecab9",
+        "name": "beIN SPORTS 1",
+        "slug": "bein-sports-1",
+        "logoUrl": "/assets/bein-sports.svg",
+        "description": "Futbol · Süper Lig",
+        "sport": "football",
+        "sports": [
+          "football"
+        ]
+      },
+      {
+        "id": "31737600-0926-4f39-a2bc-bdfcd30512ac",
+        "name": "beIN SPORTS 2",
+        "slug": "bein-sports-2",
+        "logoUrl": "/assets/bein-sports.svg",
+        "description": "Futbol · Dünya ligleri",
+        "sport": "football",
+        "sports": [
+          "football"
+        ]
+      },
+      {
+        "id": "fa1ebc8f-5c12-43da-b47f-df78a9cc9cae",
+        "name": "beIN SPORTS 3",
+        "slug": "bein-sports-3",
+        "logoUrl": "/assets/bein-sports.svg",
+        "description": "Futbol · Premier Lig",
+        "sport": "football",
+        "sports": [
+          "football"
+        ]
+      },
+      {
+        "id": "d258ca11-bf47-4992-a7e1-3e10984cfad2",
+        "name": "TRT Spor",
+        "slug": "trt-spor",
+        "logoUrl": "/assets/trt-spor.svg",
+        "description": "Spor · 7/24",
+        "sport": "football",
+        "sports": [
+          "football",
+          "basketball"
+        ]
+      },
+      {
+        "id": "07080efb-aa81-4d3e-8d86-12ea75e4bc48",
+        "name": "S Sport",
+        "slug": "s-sport",
+        "logoUrl": "/assets/s-sport.svg",
+        "description": "Basketbol · Futbol",
+        "sport": "football",
+        "sports": [
+          "football",
+          "basketball"
+        ]
+      },
+      {
+        "id": "d249eb56-49f9-4b9a-b89f-19b7be893b85",
+        "name": "S Sport 2",
+        "slug": "s-sport-2",
+        "logoUrl": "/assets/s-sport.svg",
+        "description": "Tenis · Motor sporları",
+        "sport": "football",
+        "sports": [
+          "football"
+        ]
+      },
+      {
+        "id": "b78ae248-906e-47ae-b407-d8e3220c7285",
+        "name": "beIN SPORTS 4",
+        "slug": "player-b4",
+        "logoUrl": "/assets/bein-sports.svg",
+        "description": "Canlı TV · HD",
+        "sport": "football",
+        "sports": [
+          "football"
+        ]
+      },
+      {
+        "id": "d784c9f0-76b2-44b2-8eaf-0e6a631e9c58",
+        "name": "beIN SPORTS MAX 1",
+        "slug": "player-b1max",
+        "logoUrl": "/assets/bein-sports.svg",
+        "description": "Canlı TV · HD",
+        "sport": "football",
+        "sports": [
+          "football"
+        ]
+      },
+      {
+        "id": "162fbd3a-6b61-45c0-932e-caa468158e95",
+        "name": "beIN SPORTS MAX 2",
+        "slug": "player-b2max",
+        "logoUrl": "/assets/bein-sports.svg",
+        "description": "Canlı TV · HD",
+        "sport": "football",
+        "sports": [
+          "football"
+        ]
+      },
+      {
+        "id": "14266f91-cc46-4fb9-ad86-c719021c72b7",
+        "name": "Tabii Spor 6",
+        "slug": "player-tabii6",
+        "logoUrl": null,
+        "description": "Canlı TV · HD",
+        "sport": "football",
+        "sports": [
+          "football"
+        ]
+      }
+    ],
+    "sports": [
+      {
+        "slug": "football",
+        "name": "Futbol"
+      },
+      {
+        "slug": "basketball",
+        "name": "Basketbol"
+      }
+    ],
+    "matchScope": "featured"
+  }
+}
