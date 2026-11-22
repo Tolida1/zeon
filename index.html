@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Canlı Spor Yayınları</title>
+    <style>
+        body { background: #121212; color: #fff; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-align: center; margin: 0; padding: 40px 20px; }
+        h1 { color: #ffd700; margin-bottom: 10px; }
+        p { color: #aaa; margin-bottom: 30px; }
+        .channel-grid { display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; max-width: 800px; margin: 0 auto; }
+        .channel-card { background: #1c1c20; border: 1px solid #333; border-radius: 10px; padding: 20px 30px; text-decoration: none; color: #fff; font-weight: bold; font-size: 18px; transition: 0.2s; box-shadow: 0 4px 6px rgba(0,0,0,0.3); }
+        .channel-card:hover { border-color: #ffd700; background: #25252b; transform: translateY(-2px); color: #ffd700; }
+        .loading { color: #888; font-style: italic; }
+    </style>
+</head>
+<body>
+
+    <h1>Canlı Yayın Kanalları</h1>
+    <p>Aktif spor yayınlarını izlemek için aşağıdaki kanallardan birine tıklayın:</p>
+
+    <div class="channel-grid" id="channel-container">
+        <span class="loading">Aktif yayınlar yükleniyor...</span>
+    </div>
+
+    <script>
+        fetch('active_streams.json')
+            .then(res => res.json())
+            .then(data => {
+                const container = document.getElementById('channel-container');
+                container.innerHTML = '';
+
+                if (!data || data.length === 0) {
+                    container.innerHTML = '<p class="loading">Şu an aktif yayın bulunmuyor. Lütfen daha sonra tekrar deneyin.</p>';
+                    return;
+                }
+
+                data.forEach(stream => {
+                    const card = document.createElement('a');
+                    card.className = 'channel-card';
+                    card.href = `channel.html?id=${stream.channel_id}`;
+                    card.innerText = stream.channel_id.toUpperCase();
+                    container.appendChild(card);
+                });
+            })
+            .catch(err => {
+                document.getElementById('channel-container').innerHTML = '<p class="loading">Kanal listesi yüklenirken hata oluştu.</p>';
+            });
+    </script>
+
+</body>
+</html>
