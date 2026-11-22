@@ -49,8 +49,8 @@ class StreamAutoScraper:
         return active_streams
 
     def save_to_json(self, data, filename="active_streams.json"):
+        # import json burada olmamalı, dosyanın en başında yer alıyor.
         with open(filename, "w", encoding="utf-8") as f:
-        import json
             json.dump(data, f, indent=4, ensure_ascii=False)
         print(f"[*] Sonuçlar başarıyla {filename} dosyasına kaydedildi.")
 
