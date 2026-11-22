@@ -1,7 +1,6 @@
 import json
 import re
-from urllib.parse import urljoin, urlparse
-from bs4 import BeautifulSoup
+from urllib.parse import urlparse
 import requests
 
 class TaraftariumScraper:
@@ -13,7 +12,7 @@ class TaraftariumScraper:
         }
 
     def fetch_channels_from_homepage(self):
-        """Ana sayfayı tarayarak kanal bağlantılarını ve id'leri toplar."""
+        """Ana sayfayı regex ile tarayarak kanal id'lerini toplar."""
         print(f"[*] Ana sayfa taranıyor: {self.base_url}")
         found_channels = set()
 
@@ -23,35 +22,13 @@ class TaraftariumScraper:
                 print(f"[!] Ana sayfaya ulaşılamadı. Status Code: {response.status_code}")
                 return []
 
-            soup = BeautifulSoup(response.text, 'html.parser')
+            # Sayfa içeriğindeki tüm id= parametrelerini regex ile bul
+            matches = re.findall(r'id=([A-Za-z0-9_-]+)', response.text)
+            for m in matches:
+                if len(m) > 1:
+                    found_channels.add(m)
 
-            # 1. Tüm linkleri (<a> etiketlerini) incele
-            for a_tag in soup.find_all('a', href=True):
-                href = a_tag['href']
-                
-                # ?id= içeren veya channel.html içeren linkleri yakala
-                if 'id=' in href or 'channel.html' in href:
-                    parsed_url = urlparse(href)
-                    # Eğer göreceli linkse (örn: /channel.html?id=ss), tam URL yap
-                    full_link = urljoin(self.base_url, href)
-                    
-                    # id parametresini çek
-                    match = re.search(r'[?&]id=([^&]+)', full_link)
-                    if match:
-                        ch_id = match.group(1)
-                        found_channels.add(ch_id)
-
-            # 2. Sayfa içindeki JavaScript veya iframe kaynaklarını ara (Script içindeki id'ler)
-            scripts = soup.find_all('script')
-            for script in scripts:
-                if script.string:
-                    # channel.html?id= veya benzeri kalıpları script içinden bul
-                    matches = re.findall(r'id=([A-Za-z0-9_-]+)', script.string)
-                    for m in matches:
-                        if len(m) > 1:  # Çok kısa kalıntıları ele
-                            found_channels.add(m)
-
-            print(f"[+] Toplam {len(found_channels) * 2} potansiyel kanal/yayın parametresi bulundu.")
+            print(f"[+] Toplam {len(found_channels)} potansiyel yayın parametresi bulundu.")
             return list(found_channels)
 
         except Exception as e:
@@ -69,7 +46,6 @@ class TaraftariumScraper:
             
             try:
                 res = requests.get(stream_url, headers=self.headers, timeout=5)
-                # m3u8 dosyası veya başarılı HTTP yanıtı kontrolü
                 if res.status_code == 200 and ("#EXTM3U" in res.text or "m3u8" in res.headers.get("Content-Type", "")):
                     print(f"[+] Aktif Yayın: {stream_url}")
                     active_streams.append({
@@ -82,7 +58,6 @@ class TaraftariumScraper:
             except Exception:
                 print(f"[!] Bağlantı hatası: {ch_id}")
 
-        # Sonuçları JSON dosyasına yaz
         with open(output_filename, "w", encoding="utf-8") as f:
             json.dump(active_streams, f, indent=4, ensure_ascii=False)
         
@@ -94,4 +69,4 @@ if __name__ == "__main__":
     if channels:
         scraper.validate_and_save_streams(channels)
     else:
-        print("[!] Hiç kanal bulunamadı. Site yapısı değişmiş veya anti-bot koruması aktif olabilir.")
+        print("[!] Hiç kanal bulunamadı.")
