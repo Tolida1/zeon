@@ -2,54 +2,6 @@
   "data": {
     "matches": [
       {
-        "id": "fa5d6d38-f301-4934-ac96-4cdc8282dd92",
-        "slug": "mk-b21eb41c577e562c370d4dcc",
-        "sport": "football",
-        "league": "Trendyol Süper Lig",
-        "shortLeague": "Trendyol Süper Lig",
-        "country": "Türkiye",
-        "home": {
-          "id": "176cb5e4-2427-47c5-814a-27562bc1e310",
-          "name": "Başakşehir",
-          "logoUrl": "https://file.mackolikfeeds.com/teams/47njg6cmlx5q3fvdsupd2n6qu"
-        },
-        "away": {
-          "id": "491d10d6-5b00-4e9f-9c69-cfcd83fee16c",
-          "name": "Çorum FK",
-          "logoUrl": "https://file.mackolikfeeds.com/teams/eg0cqg1u8zz85ma9nzk0cijv"
-        },
-        "score": [
-          "–",
-          "–"
-        ],
-        "minute": "",
-        "status": "scheduled",
-        "live": false,
-        "stale": false,
-        "dataUpdatedAt": "2026-11-23T07:56:29+00:00",
-        "ended": false,
-        "time": "20:00",
-        "day": "today",
-        "startsAt": "2026-11-23T17:00:00+00:00",
-        "channel": "beIN SPORTS 1",
-        "stadium": "",
-        "homeGoals": "",
-        "awayGoals": "",
-        "possession": [
-          0,
-          0
-        ],
-        "shots": [
-          0,
-          0
-        ],
-        "target": [
-          0,
-          0
-        ],
-        "version": 0
-      },
-      {
         "id": "d4b00a08-cd63-485c-8065-efe6f0fc8f05",
         "slug": "mk-669a9dfff4070dbb326c9c8a",
         "sport": "football",
@@ -67,14 +19,14 @@
           "logoUrl": "https://file.mackolikfeeds.com/teams/ehd2iemqmschhj2ec0vayztzz"
         },
         "score": [
-          "–",
-          "–"
+          "2",
+          "0"
         ],
-        "minute": "",
-        "status": "scheduled",
-        "live": false,
+        "minute": "35′",
+        "status": "live",
+        "live": true,
         "stale": false,
-        "dataUpdatedAt": "2026-11-23T07:56:29+00:00",
+        "dataUpdatedAt": "2026-11-23T20:35:34+00:00",
         "ended": false,
         "time": "23:00",
         "day": "today",
@@ -95,7 +47,7 @@
           0,
           0
         ],
-        "version": 0
+        "version": 53
       },
       {
         "id": "a2bf6705-ae7d-4d0f-b2a0-f8923c84cdcc",
@@ -115,14 +67,14 @@
           "logoUrl": "https://file.mackolikfeeds.com/teams/4yg9ttzw0m51048doksv8uq5r"
         },
         "score": [
-          "–",
-          "–"
+          "0",
+          "0"
         ],
-        "minute": "",
-        "status": "scheduled",
-        "live": false,
+        "minute": "33′",
+        "status": "live",
+        "live": true,
         "stale": false,
-        "dataUpdatedAt": "2026-11-23T07:56:29+00:00",
+        "dataUpdatedAt": "2026-11-23T20:35:34+00:00",
         "ended": false,
         "time": "23:00",
         "day": "today",
@@ -143,7 +95,7 @@
           0,
           0
         ],
-        "version": 0
+        "version": 47
       },
       {
         "id": "72009dde-f204-466f-82bb-395f9d43fdc0",
@@ -163,14 +115,14 @@
           "logoUrl": "https://file.mackolikfeeds.com/teams/4raiad4l2j5lkfaz92pk4osb"
         },
         "score": [
-          "–",
-          "–"
+          "1",
+          "0"
         ],
-        "minute": "",
-        "status": "scheduled",
-        "live": false,
+        "minute": "DA",
+        "status": "halftime",
+        "live": true,
         "stale": false,
-        "dataUpdatedAt": "2026-11-23T07:56:29+00:00",
+        "dataUpdatedAt": "2026-11-23T20:35:34+00:00",
         "ended": false,
         "time": "22:45",
         "day": "today",
@@ -191,7 +143,55 @@
           0,
           0
         ],
-        "version": 0
+        "version": 69
+      },
+      {
+        "id": "fa5d6d38-f301-4934-ac96-4cdc8282dd92",
+        "slug": "mk-b21eb41c577e562c370d4dcc",
+        "sport": "football",
+        "league": "Trendyol Süper Lig",
+        "shortLeague": "Trendyol Süper Lig",
+        "country": "Türkiye",
+        "home": {
+          "id": "176cb5e4-2427-47c5-814a-27562bc1e310",
+          "name": "Başakşehir",
+          "logoUrl": "https://file.mackolikfeeds.com/teams/47njg6cmlx5q3fvdsupd2n6qu"
+        },
+        "away": {
+          "id": "491d10d6-5b00-4e9f-9c69-cfcd83fee16c",
+          "name": "Çorum FK",
+          "logoUrl": "https://file.mackolikfeeds.com/teams/eg0cqg1u8zz85ma9nzk0cijv"
+        },
+        "score": [
+          "4",
+          "2"
+        ],
+        "minute": "MS",
+        "status": "finished",
+        "live": false,
+        "stale": false,
+        "dataUpdatedAt": "2026-11-23T20:35:34+00:00",
+        "ended": true,
+        "time": "20:00",
+        "day": "today",
+        "startsAt": "2026-11-23T17:00:00+00:00",
+        "channel": "beIN SPORTS 1",
+        "stadium": "",
+        "homeGoals": "",
+        "awayGoals": "",
+        "possession": [
+          0,
+          0
+        ],
+        "shots": [
+          0,
+          0
+        ],
+        "target": [
+          0,
+          0
+        ],
+        "version": 131
       },
       {
         "id": "8c51ccdb-f802-497e-8d68-627c79a29842",
@@ -211,15 +211,15 @@
           "logoUrl": "https://file.mackolikfeeds.com/teams/9736jslztwc016ke50bzld3n5"
         },
         "score": [
-          "–",
-          "–"
+          "2",
+          "1"
         ],
-        "minute": "",
-        "status": "scheduled",
+        "minute": "MS",
+        "status": "finished",
         "live": false,
         "stale": false,
-        "dataUpdatedAt": "2026-11-23T07:56:29+00:00",
-        "ended": false,
+        "dataUpdatedAt": "2026-11-23T20:35:34+00:00",
+        "ended": true,
         "time": "20:00",
         "day": "today",
         "startsAt": "2026-11-23T17:00:00+00:00",
@@ -239,7 +239,7 @@
           0,
           0
         ],
-        "version": 0
+        "version": 127
       }
     ],
     "channels": [
