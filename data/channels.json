@@ -111,6 +111,78 @@
       "active": true
     },
     {
+      "id": "56be4cdb-4db6-40e5-8b24-fcf73b23b357",
+      "name": "TRT 1",
+      "slug": "player-xtrt1",
+      "logoUrl": null,
+      "description": "Canlı TV · HD",
+      "sports": [
+        "football"
+      ],
+      "sortOrder": 32,
+      "active": true
+    },
+    {
+      "id": "523660ea-a91c-479e-90d3-649f18a4415c",
+      "name": "Tabii Spor",
+      "slug": "player-tabiispor",
+      "logoUrl": null,
+      "description": "Canlı TV · HD",
+      "sports": [
+        "football"
+      ],
+      "sortOrder": 40,
+      "active": true
+    },
+    {
+      "id": "16f3ab9f-58a4-47b4-a68f-2f6ac016bfd2",
+      "name": "Tabii Spor 1",
+      "slug": "player-tabii1",
+      "logoUrl": null,
+      "description": "Canlı TV · HD",
+      "sports": [
+        "football"
+      ],
+      "sortOrder": 41,
+      "active": true
+    },
+    {
+      "id": "0cd23cdb-1044-4da8-94ee-108be2b72134",
+      "name": "Tabii Spor 2",
+      "slug": "player-tabii2",
+      "logoUrl": null,
+      "description": "Canlı TV · HD",
+      "sports": [
+        "football"
+      ],
+      "sortOrder": 42,
+      "active": true
+    },
+    {
+      "id": "b88f1463-5a33-4344-b8e3-9340e76450a2",
+      "name": "Tabii Spor 3",
+      "slug": "player-tabii3",
+      "logoUrl": null,
+      "description": "Canlı TV · HD",
+      "sports": [
+        "football"
+      ],
+      "sortOrder": 43,
+      "active": true
+    },
+    {
+      "id": "16799e47-8e26-43ad-af1a-1c31f6b36e6c",
+      "name": "Tabii Spor 5",
+      "slug": "player-tabii5",
+      "logoUrl": null,
+      "description": "Canlı TV · HD",
+      "sports": [
+        "football"
+      ],
+      "sortOrder": 45,
+      "active": true
+    },
+    {
       "id": "14266f91-cc46-4fb9-ad86-c719021c72b7",
       "name": "Tabii Spor 6",
       "slug": "player-tabii6",
