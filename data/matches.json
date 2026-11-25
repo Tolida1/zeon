@@ -2,21 +2,21 @@
   "data": {
     "matches": [
       {
-        "id": "1da487ae-816d-4c1d-b098-e0041edbf889",
-        "slug": "mk-6e9d928e2b8714b8727039b2",
+        "id": "2564c20a-8b7b-4c51-bf91-81a35054766d",
+        "slug": "mk-46b67f30c681c3a7c79c4d30",
         "sport": "football",
         "league": "Şampiyonlar Ligi",
         "shortLeague": "Şampiyonlar Ligi",
         "country": "Avrupa",
         "home": {
-          "id": "0a5b0405-4115-410f-b216-324ee61be9fc",
-          "name": "Galatasaray",
-          "logoUrl": "https://file.mackolikfeeds.com/teams/esa748l653sss1wurz5ps3228"
+          "id": "d42535f1-6b09-4e97-997c-2d2df252479d",
+          "name": "Shakhtar",
+          "logoUrl": "https://file.mackolikfeeds.com/teams/cf8plcmeniaen0fc5emyb5j93"
         },
         "away": {
-          "id": "e8d27c9c-25cc-4120-aa24-a6788df96d54",
-          "name": "Aston Villa",
-          "logoUrl": "https://file.mackolikfeeds.com/teams/b496gs285it6bheuikox6z9mj"
+          "id": "6dc5a05b-baa0-418d-aef9-ada02028c0db",
+          "name": "Fenerbahçe",
+          "logoUrl": "https://file.mackolikfeeds.com/teams/8lroq0cbhdxj8124qtxwrhvmm"
         },
         "score": [
           "–",
@@ -26,203 +26,11 @@
         "status": "scheduled",
         "live": false,
         "stale": false,
-        "dataUpdatedAt": "2026-11-24T15:26:44+00:00",
-        "ended": false,
-        "time": "20:45",
-        "day": "today",
-        "startsAt": "2026-11-24T17:45:00+00:00",
-        "channel": "TRT 1",
-        "stadium": "",
-        "homeGoals": "",
-        "awayGoals": "",
-        "possession": [
-          0,
-          0
-        ],
-        "shots": [
-          0,
-          0
-        ],
-        "target": [
-          0,
-          0
-        ],
-        "version": 0
-      },
-      {
-        "id": "be88dd22-4771-41b9-b3ac-b3ba915e8254",
-        "slug": "mk-bcaffb33a01e661191be3883",
-        "sport": "football",
-        "league": "Şampiyonlar Ligi",
-        "shortLeague": "Şampiyonlar Ligi",
-        "country": "Avrupa",
-        "home": {
-          "id": "130b915b-6da3-4f6f-9e81-d818e2d485e7",
-          "name": "Bodo/Glimt",
-          "logoUrl": "https://file.mackolikfeeds.com/teams/ctvzi2jbl1q6xzq0s3sexj73g"
-        },
-        "away": {
-          "id": "5f9631e5-2091-4eda-849b-6b6409f58b32",
-          "name": "LASK",
-          "logoUrl": "https://file.mackolikfeeds.com/teams/boxkkgnpn38ywao4kzu7dx58h"
-        },
-        "score": [
-          "–",
-          "–"
-        ],
-        "minute": "",
-        "status": "scheduled",
-        "live": false,
-        "stale": false,
-        "dataUpdatedAt": "2026-11-24T15:26:44+00:00",
-        "ended": false,
-        "time": "20:45",
-        "day": "today",
-        "startsAt": "2026-11-24T17:45:00+00:00",
-        "channel": "Tabii Spor",
-        "stadium": "",
-        "homeGoals": "",
-        "awayGoals": "",
-        "possession": [
-          0,
-          0
-        ],
-        "shots": [
-          0,
-          0
-        ],
-        "target": [
-          0,
-          0
-        ],
-        "version": 0
-      },
-      {
-        "id": "2538a99b-50f9-41b8-8a28-99d7bc36c27a",
-        "slug": "mk-0ddbfc4376e3dd3ef98fad35",
-        "sport": "football",
-        "league": "Şampiyonlar Ligi",
-        "shortLeague": "Şampiyonlar Ligi",
-        "country": "Avrupa",
-        "home": {
-          "id": "2e863b90-c00b-468a-9c30-32b92cc0039a",
-          "name": "Man. City",
-          "logoUrl": "https://file.mackolikfeeds.com/teams/a3nyxabgsqlnqfkeg41m6tnpp"
-        },
-        "away": {
-          "id": "f689ec7f-8540-4b2f-8ac9-c29b5bd1d6c6",
-          "name": "Napoli",
-          "logoUrl": "https://file.mackolikfeeds.com/teams/gi0l1habji5hpgar77dl5jqe"
-        },
-        "score": [
-          "–",
-          "–"
-        ],
-        "minute": "",
-        "status": "scheduled",
-        "live": false,
-        "stale": false,
-        "dataUpdatedAt": "2026-11-24T15:26:44+00:00",
+        "dataUpdatedAt": "2026-11-24T23:59:48+00:00",
         "ended": false,
         "time": "23:00",
         "day": "today",
-        "startsAt": "2026-11-24T20:00:00+00:00",
-        "channel": "Tabii Spor 2",
-        "stadium": "",
-        "homeGoals": "",
-        "awayGoals": "",
-        "possession": [
-          0,
-          0
-        ],
-        "shots": [
-          0,
-          0
-        ],
-        "target": [
-          0,
-          0
-        ],
-        "version": 0
-      },
-      {
-        "id": "3b95f192-7998-49c3-a5de-6b5f66c716a4",
-        "slug": "mk-596ea0059e140d34f871980b",
-        "sport": "football",
-        "league": "Şampiyonlar Ligi",
-        "shortLeague": "Şampiyonlar Ligi",
-        "country": "Avrupa",
-        "home": {
-          "id": "2d4326ce-35d4-4c86-b6bb-6045da0aa517",
-          "name": "Leipzig",
-          "logoUrl": "https://file.mackolikfeeds.com/teams/9gefq4dz9b2hl8rqrxwrlrzmp"
-        },
-        "away": {
-          "id": "c949b31c-c764-47a5-8144-e53e0ce315cd",
-          "name": "Lens",
-          "logoUrl": "https://file.mackolikfeeds.com/teams/3xedluek08t2ka7oypwuullcn"
-        },
-        "score": [
-          "–",
-          "–"
-        ],
-        "minute": "",
-        "status": "scheduled",
-        "live": false,
-        "stale": false,
-        "dataUpdatedAt": "2026-11-24T15:26:44+00:00",
-        "ended": false,
-        "time": "23:00",
-        "day": "today",
-        "startsAt": "2026-11-24T20:00:00+00:00",
-        "channel": "Tabii Spor 5",
-        "stadium": "",
-        "homeGoals": "",
-        "awayGoals": "",
-        "possession": [
-          0,
-          0
-        ],
-        "shots": [
-          0,
-          0
-        ],
-        "target": [
-          0,
-          0
-        ],
-        "version": 0
-      },
-      {
-        "id": "48812876-5445-45fc-9da7-1e7be553ac58",
-        "slug": "mk-921f165b3487ac84e1f30723",
-        "sport": "football",
-        "league": "Şampiyonlar Ligi",
-        "shortLeague": "Şampiyonlar Ligi",
-        "country": "Avrupa",
-        "home": {
-          "id": "9dcdcc94-7ed9-414c-abcc-4220ab6c456c",
-          "name": "Como",
-          "logoUrl": "https://file.mackolikfeeds.com/teams/6uzfw7ahyxg4wrrfxo5u7qt0n"
-        },
-        "away": {
-          "id": "b52b2dea-08e2-4d41-b198-c25457018611",
-          "name": "AEK",
-          "logoUrl": "https://file.mackolikfeeds.com/teams/7ruua9q5rtswwi5d6xtquuto5"
-        },
-        "score": [
-          "–",
-          "–"
-        ],
-        "minute": "",
-        "status": "scheduled",
-        "live": false,
-        "stale": false,
-        "dataUpdatedAt": "2026-11-24T15:26:44+00:00",
-        "ended": false,
-        "time": "23:00",
-        "day": "today",
-        "startsAt": "2026-11-24T20:00:00+00:00",
+        "startsAt": "2026-11-25T20:00:00+00:00",
         "channel": "",
         "stadium": "",
         "homeGoals": "",
@@ -242,21 +50,21 @@
         "version": 0
       },
       {
-        "id": "5dff1f5f-97fa-44ad-9905-fb7740dec5fd",
-        "slug": "mk-f6b595ba8b227222c8699d29",
+        "id": "130a89e1-eb7c-4b76-9daa-306e908a9599",
+        "slug": "mk-ba623ea9aba307f222941ba4",
         "sport": "football",
         "league": "Şampiyonlar Ligi",
         "shortLeague": "Şampiyonlar Ligi",
         "country": "Avrupa",
         "home": {
-          "id": "99b55d42-5083-4845-9ff5-eec59c58681b",
-          "name": "Real Madrid",
-          "logoUrl": "https://file.mackolikfeeds.com/teams/3kq9cckrnlogidldtdie2fkbl"
+          "id": "147c8284-0c36-4734-b442-648cfafa7a3f",
+          "name": "Sabah",
+          "logoUrl": "https://file.mackolikfeeds.com/teams/evvhmz4bq4dq1v9llaev1j97u"
         },
         "away": {
-          "id": "395feda8-5510-4ec3-912a-4dcbb0b3fdfc",
-          "name": "PSV",
-          "logoUrl": "https://file.mackolikfeeds.com/teams/24fvcruwqrqvqa3aonf8c3zuy"
+          "id": "7f1f7540-dbbe-482c-bb1f-763b3589870e",
+          "name": "Barcelona",
+          "logoUrl": "https://file.mackolikfeeds.com/teams/agh9ifb2mw3ivjusgedj7c3fe"
         },
         "score": [
           "–",
@@ -266,251 +74,11 @@
         "status": "scheduled",
         "live": false,
         "stale": false,
-        "dataUpdatedAt": "2026-11-24T15:26:44+00:00",
+        "dataUpdatedAt": "2026-11-24T23:59:48+00:00",
         "ended": false,
-        "time": "23:00",
+        "time": "20:45",
         "day": "today",
-        "startsAt": "2026-11-24T20:00:00+00:00",
-        "channel": "Tabii Spor",
-        "stadium": "",
-        "homeGoals": "",
-        "awayGoals": "",
-        "possession": [
-          0,
-          0
-        ],
-        "shots": [
-          0,
-          0
-        ],
-        "target": [
-          0,
-          0
-        ],
-        "version": 0
-      },
-      {
-        "id": "85fd69c4-f8c6-40c5-80f4-fea311335759",
-        "slug": "mk-bbd421d2ff9bb0ed27a76877",
-        "sport": "football",
-        "league": "Şampiyonlar Ligi",
-        "shortLeague": "Şampiyonlar Ligi",
-        "country": "Avrupa",
-        "home": {
-          "id": "e110c922-3ffb-43c0-8ecf-eca08da6f253",
-          "name": "Arsenal",
-          "logoUrl": "https://file.mackolikfeeds.com/teams/4dsgumo7d4zupm2ugsvm4zm4d"
-        },
-        "away": {
-          "id": "1831db80-a06c-4f37-801e-fb3b28ad9898",
-          "name": "B. Dortmund",
-          "logoUrl": "https://file.mackolikfeeds.com/teams/dt4pinj0vw0t0cvz7za6mhmzy"
-        },
-        "score": [
-          "–",
-          "–"
-        ],
-        "minute": "",
-        "status": "scheduled",
-        "live": false,
-        "stale": false,
-        "dataUpdatedAt": "2026-11-24T15:26:44+00:00",
-        "ended": false,
-        "time": "23:00",
-        "day": "today",
-        "startsAt": "2026-11-24T20:00:00+00:00",
-        "channel": "Tabii Spor 1",
-        "stadium": "",
-        "homeGoals": "",
-        "awayGoals": "",
-        "possession": [
-          0,
-          0
-        ],
-        "shots": [
-          0,
-          0
-        ],
-        "target": [
-          0,
-          0
-        ],
-        "version": 0
-      },
-      {
-        "id": "9bf86d28-809f-4f63-9da9-e465fe48f143",
-        "slug": "mk-2ad64034bfa436ed5bb20f1c",
-        "sport": "football",
-        "league": "Şampiyonlar Ligi",
-        "shortLeague": "Şampiyonlar Ligi",
-        "country": "Avrupa",
-        "home": {
-          "id": "bb2a32b9-80f1-4669-a57f-2df83306b8f8",
-          "name": "Feyenoord",
-          "logoUrl": "https://file.mackolikfeeds.com/teams/20vymiy7bo8wkyxai3ew494fz"
-        },
-        "away": {
-          "id": "f7df89b8-3d5a-4f22-8c66-0d85059b605b",
-          "name": "Porto",
-          "logoUrl": "https://file.mackolikfeeds.com/teams/66bsnl0zjb7l5akwo00h0y5me"
-        },
-        "score": [
-          "–",
-          "–"
-        ],
-        "minute": "",
-        "status": "scheduled",
-        "live": false,
-        "stale": false,
-        "dataUpdatedAt": "2026-11-24T15:26:44+00:00",
-        "ended": false,
-        "time": "23:00",
-        "day": "today",
-        "startsAt": "2026-11-24T20:00:00+00:00",
-        "channel": "Tabii Spor 3",
-        "stadium": "",
-        "homeGoals": "",
-        "awayGoals": "",
-        "possession": [
-          0,
-          0
-        ],
-        "shots": [
-          0,
-          0
-        ],
-        "target": [
-          0,
-          0
-        ],
-        "version": 0
-      },
-      {
-        "id": "dea0b6c4-24da-4edb-9099-ecd044052476",
-        "slug": "mk-274f646ceeccac0804984c3a",
-        "sport": "football",
-        "league": "Şampiyonlar Ligi",
-        "shortLeague": "Şampiyonlar Ligi",
-        "country": "Avrupa",
-        "home": {
-          "id": "7f46759d-7bc8-4e11-8eda-70101fb650a5",
-          "name": "S. Bratislava",
-          "logoUrl": "https://file.mackolikfeeds.com/teams/cmj1019uptq8i042n5y16itbd"
-        },
-        "away": {
-          "id": "dd0a57c7-6d86-4eec-a971-bdc6946535f5",
-          "name": "Real Betis",
-          "logoUrl": "https://file.mackolikfeeds.com/teams/ah8dala7suqqkj04n2l8xz4zd"
-        },
-        "score": [
-          "–",
-          "–"
-        ],
-        "minute": "",
-        "status": "scheduled",
-        "live": false,
-        "stale": false,
-        "dataUpdatedAt": "2026-11-24T15:26:44+00:00",
-        "ended": false,
-        "time": "23:00",
-        "day": "today",
-        "startsAt": "2026-11-24T20:00:00+00:00",
-        "channel": "Tabii Spor 6",
-        "stadium": "",
-        "homeGoals": "",
-        "awayGoals": "",
-        "possession": [
-          0,
-          0
-        ],
-        "shots": [
-          0,
-          0
-        ],
-        "target": [
-          0,
-          0
-        ],
-        "version": 0
-      },
-      {
-        "id": "dfbe40a2-0d37-49d9-89e0-903f76e3d205",
-        "slug": "mk-50262d50abdc9255eda80fc1",
-        "sport": "basketball",
-        "league": "EuroLeague",
-        "shortLeague": "EuroLeague",
-        "country": "Avrupa",
-        "home": {
-          "id": "ffb39e25-5353-4cf2-b8e2-29bbc8b2d94b",
-          "name": "Beşiktaş",
-          "logoUrl": "https://secure.cache.images.core.optasports.com/basketball/teams/30x30/uuid_8z1xon628i3z0fzga522navq.png"
-        },
-        "away": {
-          "id": "bda95d38-af30-4b20-bae2-70d0254752b1",
-          "name": "Paris Basketball",
-          "logoUrl": "https://secure.cache.images.core.optasports.com/basketball/teams/30x30/uuid_dfiv767ad4op7zmyxpqi3efsa.png"
-        },
-        "score": [
-          "–",
-          "–"
-        ],
-        "minute": "",
-        "status": "scheduled",
-        "live": false,
-        "stale": false,
-        "dataUpdatedAt": "2026-11-24T15:26:44+00:00",
-        "ended": false,
-        "time": "20:00",
-        "day": "today",
-        "startsAt": "2026-11-24T17:00:00+00:00",
-        "channel": "S Sport",
-        "stadium": "",
-        "homeGoals": "",
-        "awayGoals": "",
-        "possession": [
-          0,
-          0
-        ],
-        "shots": [
-          0,
-          0
-        ],
-        "target": [
-          0,
-          0
-        ],
-        "version": 0
-      },
-      {
-        "id": "5af0eaff-e074-42e8-ae14-623fb2d4e919",
-        "slug": "mk-a88824d8ad4776b2539d1970",
-        "sport": "basketball",
-        "league": "EuroLeague",
-        "shortLeague": "EuroLeague",
-        "country": "Avrupa",
-        "home": {
-          "id": "2793d772-cf45-4698-b618-3944c0dfb829",
-          "name": "Kızılyıldız",
-          "logoUrl": "https://secure.cache.images.core.optasports.com/basketball/teams/30x30/uuid_7c43ha1gnq40cmyl3imrrnrej.png"
-        },
-        "away": {
-          "id": "e21c7041-85fb-48dc-a0e9-6f68f767388f",
-          "name": "Virtus Bologna",
-          "logoUrl": "https://secure.cache.images.core.optasports.com/basketball/teams/30x30/uuid_59mvopi3no6rpm8ej3ojnt0jy.png"
-        },
-        "score": [
-          "–",
-          "–"
-        ],
-        "minute": "",
-        "status": "scheduled",
-        "live": false,
-        "stale": false,
-        "dataUpdatedAt": "2026-11-24T15:26:44+00:00",
-        "ended": false,
-        "time": "21:00",
-        "day": "today",
-        "startsAt": "2026-11-24T18:00:00+00:00",
+        "startsAt": "2026-11-25T17:45:00+00:00",
         "channel": "",
         "stadium": "",
         "homeGoals": "",
@@ -530,21 +98,69 @@
         "version": 0
       },
       {
-        "id": "cc01f82f-6dd6-4b5f-9522-3f9ae3e262b4",
-        "slug": "mk-d9f66822b0b7388907349a46",
-        "sport": "basketball",
-        "league": "EuroLeague",
-        "shortLeague": "EuroLeague",
+        "id": "17aedbeb-0692-4957-9638-45233681af58",
+        "slug": "mk-5b119a11b5d1c9e2f9ffd5c3",
+        "sport": "football",
+        "league": "Şampiyonlar Ligi",
+        "shortLeague": "Şampiyonlar Ligi",
         "country": "Avrupa",
         "home": {
-          "id": "30bf9893-fb12-46ab-97d8-310b9b15a7c1",
+          "id": "2ddc9bc8-6e71-4e6a-8a75-561a7e54d5e2",
+          "name": "Slavia Prag",
+          "logoUrl": "https://file.mackolikfeeds.com/teams/8kpapuorr6hf0vosnovbreqqd"
+        },
+        "away": {
+          "id": "112b39df-c351-4ebe-a9bf-438b4e041b4e",
+          "name": "Villarreal",
+          "logoUrl": "https://file.mackolikfeeds.com/teams/74mcjsm72vr3l9pw2i4qfjchj"
+        },
+        "score": [
+          "–",
+          "–"
+        ],
+        "minute": "",
+        "status": "scheduled",
+        "live": false,
+        "stale": false,
+        "dataUpdatedAt": "2026-11-24T23:59:48+00:00",
+        "ended": false,
+        "time": "20:45",
+        "day": "today",
+        "startsAt": "2026-11-25T17:45:00+00:00",
+        "channel": "",
+        "stadium": "",
+        "homeGoals": "",
+        "awayGoals": "",
+        "possession": [
+          0,
+          0
+        ],
+        "shots": [
+          0,
+          0
+        ],
+        "target": [
+          0,
+          0
+        ],
+        "version": 0
+      },
+      {
+        "id": "10b9b302-7d1f-4e84-83f8-fcb2e8488e01",
+        "slug": "mk-b952d861adbcebe119876eef",
+        "sport": "football",
+        "league": "Şampiyonlar Ligi",
+        "shortLeague": "Şampiyonlar Ligi",
+        "country": "Avrupa",
+        "home": {
+          "id": "302d2164-ee96-455d-a5f0-c350852e0415",
+          "name": "Lille",
+          "logoUrl": "https://file.mackolikfeeds.com/teams/be2k34rut1lz79jxenabttqlc"
+        },
+        "away": {
+          "id": "3a3abe88-5823-47a2-b51a-c9be6d73cc4e",
           "name": "Bayern Münih",
-          "logoUrl": "https://secure.cache.images.core.optasports.com/basketball/teams/30x30/uuid_tq7d8ghyhv0v1ornsbywdvpd.png"
-        },
-        "away": {
-          "id": "a3a725b7-f540-46fd-9d24-b5844cbc2e11",
-          "name": "Maccabi Tel Aviv",
-          "logoUrl": "https://secure.cache.images.core.optasports.com/basketball/teams/30x30/uuid_22hhggp5h6bjrftvuokb3ilv5.png"
+          "logoUrl": "https://file.mackolikfeeds.com/teams/apoawtpvac4zqlancmvw4nk4o"
         },
         "score": [
           "–",
@@ -554,11 +170,11 @@
         "status": "scheduled",
         "live": false,
         "stale": false,
-        "dataUpdatedAt": "2026-11-24T15:26:44+00:00",
+        "dataUpdatedAt": "2026-11-24T23:59:48+00:00",
         "ended": false,
-        "time": "22:00",
+        "time": "23:00",
         "day": "today",
-        "startsAt": "2026-11-24T19:00:00+00:00",
+        "startsAt": "2026-11-25T20:00:00+00:00",
         "channel": "",
         "stadium": "",
         "homeGoals": "",
@@ -578,21 +194,21 @@
         "version": 0
       },
       {
-        "id": "327ffb8f-e8a3-41de-897b-ab432d1af9e8",
-        "slug": "mk-29b760eb38acdae6a59c47f9",
-        "sport": "basketball",
-        "league": "EuroLeague",
-        "shortLeague": "EuroLeague",
+        "id": "256463a6-2e53-4665-a007-34869dad1198",
+        "slug": "mk-b2b950323ed0f3c078eaf801",
+        "sport": "football",
+        "league": "Şampiyonlar Ligi",
+        "shortLeague": "Şampiyonlar Ligi",
         "country": "Avrupa",
         "home": {
-          "id": "dffa9d30-977d-451b-9090-67b2b1fa75d1",
-          "name": "Valencia BC",
-          "logoUrl": "https://secure.cache.images.core.optasports.com/basketball/teams/30x30/uuid_c7dnk62idkd54j68xxz72wo1d.png"
+          "id": "96d8927b-6bd0-4353-a782-2a1d5f796038",
+          "name": "Inter",
+          "logoUrl": "https://file.mackolikfeeds.com/teams/a6td5y26yfyyc4nac8m20fm6s"
         },
         "away": {
-          "id": "bc382039-fde4-4414-95c8-4a18ecf6d45d",
-          "name": "Panathinaikos AKTOR",
-          "logoUrl": "https://secure.cache.images.core.optasports.com/basketball/teams/30x30/uuid_dm8qkchma47lbv77vvorrxsjj.png"
+          "id": "1145bdce-9be8-4b92-b14c-498111451112",
+          "name": "Stuttgart",
+          "logoUrl": "https://file.mackolikfeeds.com/teams/3dwlvz6cl4lcavvrg0y2dycrt"
         },
         "score": [
           "–",
@@ -602,11 +218,299 @@
         "status": "scheduled",
         "live": false,
         "stale": false,
-        "dataUpdatedAt": "2026-11-24T15:26:44+00:00",
+        "dataUpdatedAt": "2026-11-24T23:59:48+00:00",
         "ended": false,
-        "time": "22:30",
+        "time": "23:00",
         "day": "today",
-        "startsAt": "2026-11-24T19:30:00+00:00",
+        "startsAt": "2026-11-25T20:00:00+00:00",
+        "channel": "",
+        "stadium": "",
+        "homeGoals": "",
+        "awayGoals": "",
+        "possession": [
+          0,
+          0
+        ],
+        "shots": [
+          0,
+          0
+        ],
+        "target": [
+          0,
+          0
+        ],
+        "version": 0
+      },
+      {
+        "id": "5e7805bc-97d7-4890-8cd9-3ace9137343a",
+        "slug": "mk-e54ccd8ea877a29fa12c6187",
+        "sport": "football",
+        "league": "Şampiyonlar Ligi",
+        "shortLeague": "Şampiyonlar Ligi",
+        "country": "Avrupa",
+        "home": {
+          "id": "df2a454c-23c1-42ff-b526-c34ab6b89c4a",
+          "name": "Atl. Madrid",
+          "logoUrl": "https://file.mackolikfeeds.com/teams/4ku8o6uf87yd8iecdalipo6wd"
+        },
+        "away": {
+          "id": "2afeb588-2011-4578-9193-5725ca53a594",
+          "name": "Viking",
+          "logoUrl": "https://file.mackolikfeeds.com/teams/bsykw9d70ffqe9atosc92n1e9"
+        },
+        "score": [
+          "–",
+          "–"
+        ],
+        "minute": "",
+        "status": "scheduled",
+        "live": false,
+        "stale": false,
+        "dataUpdatedAt": "2026-11-24T23:59:48+00:00",
+        "ended": false,
+        "time": "23:00",
+        "day": "today",
+        "startsAt": "2026-11-25T20:00:00+00:00",
+        "channel": "",
+        "stadium": "",
+        "homeGoals": "",
+        "awayGoals": "",
+        "possession": [
+          0,
+          0
+        ],
+        "shots": [
+          0,
+          0
+        ],
+        "target": [
+          0,
+          0
+        ],
+        "version": 0
+      },
+      {
+        "id": "707fb235-1394-406e-99f2-ffbe869f7590",
+        "slug": "mk-412d986a6814390a1998fd53",
+        "sport": "football",
+        "league": "Şampiyonlar Ligi",
+        "shortLeague": "Şampiyonlar Ligi",
+        "country": "Avrupa",
+        "home": {
+          "id": "66976fc9-da5b-4e7a-9fe1-75bccb1808f5",
+          "name": "PSG",
+          "logoUrl": "https://file.mackolikfeeds.com/teams/2b3mar72yy8d6uvat1ka6tn3r"
+        },
+        "away": {
+          "id": "07283307-601d-41d1-8306-344d46e93dae",
+          "name": "Roma",
+          "logoUrl": "https://file.mackolikfeeds.com/teams/2tk2l9sgktwc9jhzqdd4mpdtb"
+        },
+        "score": [
+          "–",
+          "–"
+        ],
+        "minute": "",
+        "status": "scheduled",
+        "live": false,
+        "stale": false,
+        "dataUpdatedAt": "2026-11-24T23:59:48+00:00",
+        "ended": false,
+        "time": "23:00",
+        "day": "today",
+        "startsAt": "2026-11-25T20:00:00+00:00",
+        "channel": "",
+        "stadium": "",
+        "homeGoals": "",
+        "awayGoals": "",
+        "possession": [
+          0,
+          0
+        ],
+        "shots": [
+          0,
+          0
+        ],
+        "target": [
+          0,
+          0
+        ],
+        "version": 0
+      },
+      {
+        "id": "90a2ba62-fbb1-4cb2-96fe-ac488a731597",
+        "slug": "mk-2d045deeaa367271f44a7664",
+        "sport": "football",
+        "league": "Şampiyonlar Ligi",
+        "shortLeague": "Şampiyonlar Ligi",
+        "country": "Avrupa",
+        "home": {
+          "id": "b580c090-8ff1-4997-9c73-388470f2a19e",
+          "name": "Sporting CP",
+          "logoUrl": "https://file.mackolikfeeds.com/teams/7catg5lpivcmpf4xhggh6d8rk"
+        },
+        "away": {
+          "id": "db100c60-fef4-4663-acfc-09ece30bef84",
+          "name": "Manchester United",
+          "logoUrl": "https://file.mackolikfeeds.com/teams/6eqit8ye8aomdsrrq0hk3v7gh"
+        },
+        "score": [
+          "–",
+          "–"
+        ],
+        "minute": "",
+        "status": "scheduled",
+        "live": false,
+        "stale": false,
+        "dataUpdatedAt": "2026-11-24T23:59:48+00:00",
+        "ended": false,
+        "time": "23:00",
+        "day": "today",
+        "startsAt": "2026-11-25T20:00:00+00:00",
+        "channel": "",
+        "stadium": "",
+        "homeGoals": "",
+        "awayGoals": "",
+        "possession": [
+          0,
+          0
+        ],
+        "shots": [
+          0,
+          0
+        ],
+        "target": [
+          0,
+          0
+        ],
+        "version": 0
+      },
+      {
+        "id": "f4564ce4-371a-4a04-8114-18979314db8f",
+        "slug": "mk-d5f616df3fb805a9af7c4d9d",
+        "sport": "football",
+        "league": "Şampiyonlar Ligi",
+        "shortLeague": "Şampiyonlar Ligi",
+        "country": "Avrupa",
+        "home": {
+          "id": "ee8ff9f0-ebb6-4874-9643-d50e6d901be6",
+          "name": "Club Brugge",
+          "logoUrl": "https://file.mackolikfeeds.com/teams/1oyb7oym5nwzny8vxf03szd2h"
+        },
+        "away": {
+          "id": "ae64bd86-8309-4a67-b968-658102ce7688",
+          "name": "Liverpool",
+          "logoUrl": "https://file.mackolikfeeds.com/teams/c8h9bw1l82s06h77xxrelzhur"
+        },
+        "score": [
+          "–",
+          "–"
+        ],
+        "minute": "",
+        "status": "scheduled",
+        "live": false,
+        "stale": false,
+        "dataUpdatedAt": "2026-11-24T23:59:48+00:00",
+        "ended": false,
+        "time": "23:00",
+        "day": "today",
+        "startsAt": "2026-11-25T20:00:00+00:00",
+        "channel": "",
+        "stadium": "",
+        "homeGoals": "",
+        "awayGoals": "",
+        "possession": [
+          0,
+          0
+        ],
+        "shots": [
+          0,
+          0
+        ],
+        "target": [
+          0,
+          0
+        ],
+        "version": 0
+      },
+      {
+        "id": "c2aa24b8-f016-46ca-bd3c-a4a696408633",
+        "slug": "mk-db43c345950aeb4f812f4507",
+        "sport": "basketball",
+        "league": "EuroLeague",
+        "shortLeague": "EuroLeague",
+        "country": "Avrupa",
+        "home": {
+          "id": "4e40d475-5125-4abf-b67d-a36405715ef3",
+          "name": "BC Dubai",
+          "logoUrl": "https://secure.cache.images.core.optasports.com/basketball/teams/30x30/uuid_c053bvburhpxq5hynvqnnlclw.png"
+        },
+        "away": {
+          "id": "ffd41292-fd4b-455c-ae31-375b97d9b6ce",
+          "name": "KK Partizan",
+          "logoUrl": "https://secure.cache.images.core.optasports.com/basketball/teams/30x30/uuid_3qagp2hwr9ywx55p3pl90n7qg.png"
+        },
+        "score": [
+          "–",
+          "–"
+        ],
+        "minute": "",
+        "status": "scheduled",
+        "live": false,
+        "stale": false,
+        "dataUpdatedAt": "2026-11-24T23:59:48+00:00",
+        "ended": false,
+        "time": "19:00",
+        "day": "today",
+        "startsAt": "2026-11-25T16:00:00+00:00",
+        "channel": "",
+        "stadium": "",
+        "homeGoals": "",
+        "awayGoals": "",
+        "possession": [
+          0,
+          0
+        ],
+        "shots": [
+          0,
+          0
+        ],
+        "target": [
+          0,
+          0
+        ],
+        "version": 0
+      },
+      {
+        "id": "a35bb77f-e06d-44e3-bb7c-6b998012d92d",
+        "slug": "mk-aba89381618232954783d964",
+        "sport": "basketball",
+        "league": "EuroLeague",
+        "shortLeague": "EuroLeague",
+        "country": "Avrupa",
+        "home": {
+          "id": "8ae0ee05-3f4e-4b69-9c9a-fc000a05b714",
+          "name": "Olympiakos",
+          "logoUrl": "https://secure.cache.images.core.optasports.com/basketball/teams/30x30/uuid_dpl09q0dsbpkgnwsve17hdl4x.png"
+        },
+        "away": {
+          "id": "45e6a8d4-6516-4899-ad14-f9c51d7975e4",
+          "name": "Hapoel Tel Aviv",
+          "logoUrl": "https://secure.cache.images.core.optasports.com/basketball/teams/30x30/uuid_5icip28xaayeqelvkd18fygf0.png"
+        },
+        "score": [
+          "–",
+          "–"
+        ],
+        "minute": "",
+        "status": "scheduled",
+        "live": false,
+        "stale": false,
+        "dataUpdatedAt": "2026-11-24T23:59:48+00:00",
+        "ended": false,
+        "time": "22:15",
+        "day": "today",
+        "startsAt": "2026-11-25T19:15:00+00:00",
         "channel": "S Sport 2",
         "stadium": "",
         "homeGoals": "",
@@ -626,21 +530,21 @@
         "version": 0
       },
       {
-        "id": "2c0b0caa-bbbc-4c34-ac87-a7b83b3388a6",
-        "slug": "mk-1f274d1d560743b1b5c7486a",
+        "id": "a75a3f07-77f0-4e9a-8823-451140f5e06c",
+        "slug": "mk-923e7033f3dc11ed7908eebd",
         "sport": "basketball",
         "league": "EuroLeague",
         "shortLeague": "EuroLeague",
         "country": "Avrupa",
         "home": {
-          "id": "21e471ea-78b4-497c-98c0-8f39418b3e3c",
-          "name": "ASVEL Lyon Villeurbanne",
-          "logoUrl": "https://secure.cache.images.core.optasports.com/basketball/teams/30x30/uuid_6sj07ud8ng88g455eit4mh64a.png"
+          "id": "94d2f11e-9554-4f89-9141-174b7f36c07b",
+          "name": "Baskonia",
+          "logoUrl": "https://secure.cache.images.core.optasports.com/basketball/teams/30x30/uuid_dufh6ttewa7kamkbqtdl4pxjd.png"
         },
         "away": {
-          "id": "07c48be0-c6e3-4369-8ffc-1c1adbca32fd",
-          "name": "Olimpia Milano",
-          "logoUrl": "https://secure.cache.images.core.optasports.com/basketball/teams/30x30/uuid_d9u0m3f55erqz8c4iwz326wu4.png"
+          "id": "fa6875f5-d410-4822-bb69-289a0a9bc0cf",
+          "name": "Anadolu Efes",
+          "logoUrl": "https://secure.cache.images.core.optasports.com/basketball/teams/30x30/uuid_dk1qmybcn1uls9bfgy65e1dug.png"
         },
         "score": [
           "–",
@@ -650,12 +554,12 @@
         "status": "scheduled",
         "live": false,
         "stale": false,
-        "dataUpdatedAt": "2026-11-24T15:26:44+00:00",
+        "dataUpdatedAt": "2026-11-24T23:59:48+00:00",
         "ended": false,
-        "time": "22:45",
+        "time": "22:30",
         "day": "today",
-        "startsAt": "2026-11-24T19:45:00+00:00",
-        "channel": "",
+        "startsAt": "2026-11-25T19:30:00+00:00",
+        "channel": "S Sport",
         "stadium": "",
         "homeGoals": "",
         "awayGoals": "",
@@ -674,21 +578,21 @@
         "version": 0
       },
       {
-        "id": "44a05662-4ce6-4d25-ac57-68f1998b943f",
-        "slug": "mk-9b181bbedae46c3cd1aa65ac",
+        "id": "d416e81e-2478-479f-ab48-8914154fc730",
+        "slug": "mk-d211deb3d953216c448388c5",
         "sport": "basketball",
         "league": "EuroLeague",
         "shortLeague": "EuroLeague",
         "country": "Avrupa",
         "home": {
-          "id": "3364c66a-870d-432f-8464-21285d7e10c3",
-          "name": "FC Barcelona",
-          "logoUrl": "https://secure.cache.images.core.optasports.com/basketball/teams/30x30/uuid_1xzci0oxhmuwousx59js30793.png"
+          "id": "a69e1dac-b66d-4dc2-8605-956ae22d926f",
+          "name": "Real Madrid Baloncesto",
+          "logoUrl": "https://secure.cache.images.core.optasports.com/basketball/teams/30x30/uuid_1h4vevagbjz0aurins8ra820x.png"
         },
         "away": {
-          "id": "535f478d-2ba2-47b0-bb03-9357f0b05018",
-          "name": "Fenerbahçe Tarfin",
-          "logoUrl": "https://secure.cache.images.core.optasports.com/basketball/teams/30x30/uuid_ed2r3ymxmshlhiq6nzjrawsb2.png"
+          "id": "10e13be8-3a6f-4060-989f-1ec028d3bc38",
+          "name": "Zalgiris Kaunas",
+          "logoUrl": "https://secure.cache.images.core.optasports.com/basketball/teams/30x30/uuid_i6ecxnytq090427g9u5cvtyw.png"
         },
         "score": [
           "–",
@@ -698,12 +602,12 @@
         "status": "scheduled",
         "live": false,
         "stale": false,
-        "dataUpdatedAt": "2026-11-24T15:26:44+00:00",
+        "dataUpdatedAt": "2026-11-24T23:59:48+00:00",
         "ended": false,
-        "time": "23:00",
+        "time": "22:45",
         "day": "today",
-        "startsAt": "2026-11-24T20:00:00+00:00",
-        "channel": "S Sport",
+        "startsAt": "2026-11-25T19:45:00+00:00",
+        "channel": "",
         "stadium": "",
         "homeGoals": "",
         "awayGoals": "",
