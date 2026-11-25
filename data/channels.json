@@ -171,6 +171,18 @@
       "active": true
     },
     {
+      "id": "381bf1f0-f1b0-4dff-b55c-37b369683e35",
+      "name": "Tabii Spor 4",
+      "slug": "player-tabii4",
+      "logoUrl": null,
+      "description": "Canlı TV · HD",
+      "sports": [
+        "football"
+      ],
+      "sortOrder": 44,
+      "active": true
+    },
+    {
       "id": "16799e47-8e26-43ad-af1a-1c31f6b36e6c",
       "name": "Tabii Spor 5",
       "slug": "player-tabii5",
@@ -190,6 +202,19 @@
       "description": "Canlı TV · HD",
       "sports": [
         "football"
+      ],
+      "sortOrder": 46,
+      "active": true
+    },
+    {
+      "id": "9c73aa9b-0824-4362-9748-0cba99409b54",
+      "name": "S Sport Plus",
+      "slug": "s-sport-plus",
+      "logoUrl": "https://img.sporekrani.com/channels/VmyIJfY9ujeeFQv90fWj3b5tqulXoou0Q3BSJ1pF.png",
+      "description": "S Sport Plus canlı spor yayınları",
+      "sports": [
+        "football",
+        "basketball"
       ],
       "sortOrder": 46,
       "active": true
